@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">day5Demo</string>
+    <string name="product_thumbnail">Product Thumbnail</string>
+    <string name="title_activity_products">ProductsActivity</string>
+    <string name="exit">Exit</string>
+    <string name="delete_from_favorites">Delete From Favorites</string>
+    <string name="remove_from_favorites">Remove From Favorites</string>
+    <string name="product_image">Product Image</string>
+</resources>
